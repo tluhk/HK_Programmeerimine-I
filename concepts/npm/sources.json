@@ -1,0 +1,14 @@
+[
+    {
+       "url": "http://npmjs.org/",
+       "description": "NPM repositoorium"
+    },
+    {
+        "url": "https://docs.npmjs.com/cli-documentation/cli",
+        "description": "NPM-i käsud"
+     },
+     {
+         "url": "https://nodejs.org/en/knowledge/getting-started/npm/what-is-the-file-package-json/",
+         "description": "package.json faili kirjeldus"
+     }
+]

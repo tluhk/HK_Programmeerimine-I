@@ -1,0 +1,10 @@
+[
+    {
+       "url": "https://www.tutorialspoint.com/nodejs/nodejs_introduction.htm",
+       "description": "NodeJS-i tutvustav artikkel"
+    },
+    {
+        "url": "https://github.com/goldbergyoni/nodebestpractices",
+        "description": "NodeJS-i parimad praktikad"
+     }
+]

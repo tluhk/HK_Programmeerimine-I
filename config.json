@@ -1,8 +1,8 @@
 { 
-  "courseName": "Kursuse näide",
-  "courseCode": "HK1234.HK",
-  "slug": "kursuse_naide",
-  "courseUrl": "https://ois2.tlu.ee/tluois/aine/HK1234.HK",
+  "courseName": "Programmeerimine I",
+  "courseCode": "HKI5097.HK",
+  "slug": "Programmeerimine_I",
+  "courseUrl": "https://ois2.tlu.ee/tluois/aine/HKI5097.HK",
   "active": true,
   "docs": [
     {
@@ -18,20 +18,9 @@
   ],
   "lessons": [
     {
-      "name": "Loeng 1 (näidisfailid)",
+      "name": "Loeng 1 - Sissejuhatus",
       "slug": "loeng_01",
-      "components": ["naidis-sisuteema", "sisu-loomise-juhend", "praktikum_01"],
-      "additionalMaterials": [
-        {
-          "slug": "lisamaterjalid",
-          "name": "Loengu lisamaterjalid"
-        }
-      ]
-    },
-    {
-      "name": "Loeng 2",
-      "slug": "loeng_02",
-      "components": ["funktsioonid", "praktikum_02"],
+      "components": ["nodejs", "npm"],
       "additionalMaterials": [
         {
           "slug": "lisamaterjalid",
@@ -42,16 +31,12 @@
   ],
   "concepts": [
     {
-      "slug": "naidis-sisuteema",
-      "name": "Näidis Sisuteema"
+      "slug": "nodejs",
+      "name": "NodeJS"
     },
     {
-      "slug": "sisu-loomise-juhend",
-      "name": "Sisu loomise juhend"
-    },
-    {
-      "slug": "funktsioonid",
-      "name": "Funktsioonid"
+      "slug": "npm",
+      "name": "NPM"
     }
   ],
   "practices": [

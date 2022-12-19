@@ -1,20 +1,16 @@
-_Selle faili sisu kuvatakse õppekeskkonnas vastava loengu avalehel._
-_Kohanda selle faili sisu ja struktuuri enda nägemuse järgi, kuid pea meeles tuua välja loengu teemad ja õpiväljundid._
+# Sissejuhtus
 
-**Näidissisu:**
-
-# Loeng 1
-
-_siia kirjuta üldiselt loengu sisust._
+Aine tutvustus
 
 ## Loengu teemad
 
-_siia kirjuta loengu teemad_
+- Sissejuhatus
+- NodeJS
+- NPM
 
 ## Loengu õpiväljundid
 
-_siia kirjuta loengu õpiväljundid_
-
-Peale loengut oskab õpilane:
-
-....
+Peale loengut õpilane:
+- selgitab serveripoolse JavaScripti eesmärki
+- paigaldab oma arvutisse iseseisvalt NodeJS-i
+- loob uue projekti kasutades käsurealt npm-i käske

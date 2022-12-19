@@ -1,24 +1,18 @@
 # Kursuse ülesehitus
 
-_siia kirjuta üldiselt ainekursuse sisust_
+Serveripoolne JavaScript. Dünaamilise veebilehe loomine NodeJS-i abil. Failide lugemine, muutmine ja salvestamine. Andmete pärimine ja salvestamine andmebaasist ja välisest allikast (API-st). Veahaldus. Testimine.
 
-**Eesmärgid:** _siia kirjuta ainekursuse eesmärgid_
+**Eesmärgid:** Luua eeldused dünaamilise veebilehe loomiseks serveripoolse JavaScript-i abil.
 
-**Õpiväljundid**: _siia kirjuta ainekursuse õpiväljundid_
+**Õpiväljundid**: Õpilane loob dünaamilise veebilehe, mis suhtleb andmebaasi või välise API-ga (andmete lugemine ja salvestamine).
 
 
 ## Hindamismudel
 
-_siin kirjelda ainekursuse hindamismudelit, näiteks:_
+Õppeaine on arvestuslik.
 
-Hinne moodustub 50% kodustest töödest (iga kodune töö annab 10% hindest) ja 75% kirjalikust eksamist.
+Üliõpilane loob kursuse jooksul dünaamilise veebilehe, mis loeb ja salvestab andmeid andmebaasist või välisest API-st.
 
-Eksam on välja töötatud eelnevalt paika pandud õpiväljundite alusel. Iga loengus õpitud teema kohta on koostatud küsimused avatud vastustega või valikvastustega. Peale eksami tulemuste selgumist saab iga üliõpilane individuaalse tagasiside oma eksami tulemuste kohta.
+Arvestuse eelduseks on kodutööde tähtaegne esitamine (iga hilinetud päev võtab protsendi maha kodutöö eest saadavatest punktidest).
+Kodutööd moodustavad 50% arvestusest.
 
-Kursuse hinne moodustub järgmiselt:
-* „A” - suurepärane 91-100%
-* „B” - väga hea 81- 90%
-* „C” - hea 71- 80%
-* „D” - rahuldav 61-70%
-* „E” - kasin 51- 60%
-* „F” - puudulik 0 – 50%
