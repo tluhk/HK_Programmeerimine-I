@@ -20,7 +20,7 @@
     {
       "name": "Loeng 1 - Sissejuhatus",
       "slug": "loeng_01",
-      "components": ["nodejs", "NpM"],
+      "components": ["nodejs", "npm"],
       "additionalMaterials": [
         {
           "slug": "lisamaterjalid",
@@ -35,7 +35,7 @@
       "name": "NodeJS"
     },
     {
-      "slug": "nPm",
+      "slug": "npm",
       "name": "NPM"
     }
   ],
