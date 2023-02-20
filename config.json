@@ -1,13 +1,10 @@
 { 
-  "courseName": "Programmeerimine I",
-  "courseCode": "HKI5097.HK",
-  "slug": "Programmeerimine_I",
   "courseUrl": "https://ois2.tlu.ee/tluois/aine/HKI5097.HK",
   "active": true,
   "docs": [
     {
       "slug": "about",
-      "name": "Ainekursusest"
+      "name": "Aine info"
     }
   ],
   "additionalMaterials": [
