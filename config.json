@@ -38,7 +38,7 @@
     },
     {
       "name": "Loeng 3 - Uuesti sissejuhatus",
-      "slug": "loeng_01",
+      "slug": "loeng_03",
       "components": ["nodejs", "npm"],
       "additionalMaterials": [
         {
@@ -49,7 +49,7 @@
     },
     {
       "name": "Loeng 4 - Uuesti praktikumid",
-      "slug": "loeng_02",
+      "slug": "loeng_04",
       "components": ["praktikum_01", "praktikum_02"],
       "additionalMaterials": [
         {
