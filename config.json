@@ -35,6 +35,28 @@
           "name": "Loengu lisamaterjalid"
         }
       ]
+    },
+    {
+      "name": "Loeng 3 - Uuesti sissejuhatus",
+      "slug": "loeng_01",
+      "components": ["nodejs", "npm"],
+      "additionalMaterials": [
+        {
+          "slug": "lisamaterjalid",
+          "name": "Loengu lisamaterjalid"
+        }
+      ]
+    },
+    {
+      "name": "Loeng 4 - Uuesti praktikumid",
+      "slug": "loeng_02",
+      "components": ["praktikum_01", "praktikum_02"],
+      "additionalMaterials": [
+        {
+          "slug": "lisamaterjalid",
+          "name": "Loengu lisamaterjalid"
+        }
+      ]
     }
   ],
   "concepts": [
