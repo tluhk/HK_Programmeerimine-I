@@ -24,6 +24,17 @@
           "name": "Loengu lisamaterjalid"
         }
       ]
+    },
+    {
+      "name": "Loeng 2 - Praktikumid",
+      "slug": "loeng_02",
+      "components": ["praktikum_01", "praktikum_02"],
+      "additionalMaterials": [
+        {
+          "slug": "lisamaterjalid",
+          "name": "Loengu lisamaterjalid"
+        }
+      ]
     }
   ],
   "concepts": [
@@ -39,7 +50,7 @@
   "practices": [
     {
       "slug": "praktikum_01",
-      "name": "Näidis Praktikum"
+      "name": "Praktikum 1"
     },
     {
       "slug": "praktikum_02",
