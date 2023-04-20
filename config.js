@@ -1,68 +1,68 @@
 { 
-  courseUrl: "https://ois2.tlu.ee/tluois/aine/HKI5097.HK",
-  teacherUsername: "tõnu",
-  active: false,
-  semester: "S2021",
-  docs: [
+  "courseUrl": "https://ois2.tlu.ee/tluois/aine/HKI5097.HK",
+  "teacherUsername": "tõnu",
+  "active": false,
+  "semester": "S2021",
+  "docs": [
     {
-      slug: "about",
-      name: "Aine info"
+      "slug": "about",
+      "name": "Aine info"
     }
   ],
-  additionalMaterials: [
+  "additionalMaterials": [
     {
-      slug: "lisamaterjalid",
-      name: "Aine lisamaterjalid"
+      "slug": "lisamaterjalid",
+      "name": "Aine lisamaterjalid"
     }
   ],
-  lessons: [
+  "lessons": [
     {
-      slug: "loeng_01",
-      name: "Loeng 1 - Sissejuhatus",
-      uuid: "f86a6d7a-10d4-404d-ab05-0838d0907714",
-      components: ["nodejs", "npm"],
-      additionalMaterials: [
+      "slug": "loeng_01",
+      "name": "Loeng 1 - Sissejuhatus",
+      "uuid": "f86a6d7a-10d4-404d-ab05-0838d0907714",
+      "components": ["nodejs", "npm"],
+      "additionalMaterials": [
         {
-          slug: "lisamaterjalid",
-          name: "Loengu lisamaterjalid"
+          "slug": "lisamaterjalid",
+          "name": "Loengu lisamaterjalid"
         }
       ]
     },
     {
-      slug: "loeng_02",
-      name: "Loeng 2 - Praktikumid",
-      uuid: "d974e7fe-1481-4273-999b-835bcf617226",
-      components: ["praktikum_01", "praktikum_02"],
-      additionalMaterials: [
+      "slug": "loeng_02",
+      "name": "Loeng 2 - Praktikumid",
+      "uuid": "d974e7fe-1481-4273-999b-835bcf617226",
+      "components": ["praktikum_01", "praktikum_02"],
+      "additionalMaterials": [
         {
-          slug: "lisamaterjalid",
-          name: "Loengu lisamaterjalid"
+          "slug": "lisamaterjalid",
+          "name": "Loengu lisamaterjalid"
         }
       ]
     }
   ],
-  concepts: [
+  "concepts": [
     {
-      slug: "nodejs",
-      name: "NodeJS",
-      uuid: "6f524fca-c167-466c-aed4-d82e7e22401f"
+      "slug": "nodejs",
+      "name": "NodeJS",
+      "uuid": "6f524fca-c167-466c-aed4-d82e7e22401f"
     },
     {
-      slug: "npm",
-      name: "NPM",
-      uuid: "73393d2e-4340-4815-8c18-cb27978fe034"
+      "slug": "npm",
+      "name": "NPM",
+      "uuid": "73393d2e-4340-4815-8c18-cb27978fe034"
     }
   ],
-  practices: [
+  "practices": [
     {
-      slug: "praktikum_01",
-      name: "Praktikum 1",
-      uuid: "e620872e-ec33-4c31-b3b1-3fd8358ab42d"
+      "slug": "praktikum_01",
+      "name": "Praktikum 1",
+      "uuid": "e620872e-ec33-4c31-b3b1-3fd8358ab42d"
     },
     {
-      slug: "praktikum_02",
-      name: "Praktikum 2",
-      uuid: "aa22e20d-3c26-4cdc-91ca-05aba38d31b5"
+      "slug": "praktikum_02",
+      "name": "Praktikum 2",
+      "uuid": "aa22e20d-3c26-4cdc-91ca-05aba38d31b5"
     }
   ]
 }
