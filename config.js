@@ -1,7 +1,7 @@
 { 
   "courseUrl": "https://ois2.tlu.ee/tluois/aine/HKI5097.HK",
-  "teacherUsername": "tõnu",
-  "active": false,
+  "teacherUsername": "HK-teacher",
+  "active": true,
   "semester": "S2021",
   "docs": [
     {
