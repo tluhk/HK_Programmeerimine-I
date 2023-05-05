@@ -1,7 +1,7 @@
 { 
   "courseUrl": "https://ois2.tlu.ee/tluois/aine/HKI5097.HK",
   "teacherUsername": "priit",
-  "active": false,
+  "active": true,
   "semester": "K2022",
   "docs": [
     {
