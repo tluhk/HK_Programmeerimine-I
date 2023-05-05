@@ -39,30 +39,6 @@
           "name": "Loengu lisamaterjalid"
         }
       ]
-    },
-    {
-      "slug": "loeng_03",
-      "name": "Loeng 3 - Uuesti sissejuhatus",
-      "uuid": "40329d0b-a80b-4b64-9fc5-de5103cba505",
-      "components": ["nodejs", "npm"],
-      "additionalMaterials": [
-        {
-          "slug": "lisamaterjalid",
-          "name": "Loengu lisamaterjalid"
-        }
-      ]
-    },
-    {
-      "slug": "loeng_04",
-      "name": "Loeng 4 - Uuesti praktikumid",
-      "uuid": "88f82410-758d-476d-9a58-6016b39ac9d0",
-      "components": ["praktikum_01", "praktikum_02"],
-      "additionalMaterials": [
-        {
-          "slug": "lisamaterjalid",
-          "name": "Loengu lisamaterjalid"
-        }
-      ]
     }
   ],
   "concepts": [
